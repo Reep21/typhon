@@ -1,3 +1,1 @@
-My first project!
-
-Test
+All my public Phython work goes here :)
